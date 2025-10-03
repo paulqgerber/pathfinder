@@ -1,0 +1,14 @@
+id,name,type,latitude,longitude
+SUP_CN,Supplier_China,supplier,31.2304,121.4737
+SUP_VN,Supplier_Vietnam,supplier,21.0285,105.8542
+FAC_PL,Factory_Poland,factory,52.2297,21.0122
+HUB_SEA_NL,Sea_Hub_Rotterdam,hub,51.9225,4.4792
+HUB_AIR_DE,Air_Hub_Frankfurt,hub,50.1109,8.6821
+HUB_LAND_AT,Land_Hub_Vienna,hub,48.2082,16.3738
+HUB_LAND_FR,Land_Hub_Calais,hub,50.9513,1.8587
+HUB_SUEZ,Suez_Canal_Hub,hub,30.5852,32.2618
+HUB_US_NY,US_Hub_NewYork,hub,40.7128,-74.0060
+MKT_UK,Market_UK,market,51.5072,-0.1276
+MKT_ES,Market_Spain,market,40.4168,-3.7038
+MKT_IT,Market_Italy,market,41.9028,12.4964
+MKT_US_CA,Market_US_California,market,36.7783,-119.4179
