@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+supply_chain_map.html
 
 # C extensions
 *.so
